@@ -1,0 +1,15 @@
+D:\NPF\Lab3\NPF_ASM01\Client\bin\Debug\net6.0\Client.exe
+D:\NPF\Lab3\NPF_ASM01\Client\bin\Debug\net6.0\Client.deps.json
+D:\NPF\Lab3\NPF_ASM01\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+D:\NPF\Lab3\NPF_ASM01\Client\bin\Debug\net6.0\Client.dll
+D:\NPF\Lab3\NPF_ASM01\Client\bin\Debug\net6.0\ref\Client.dll
+D:\NPF\Lab3\NPF_ASM01\Client\bin\Debug\net6.0\Client.pdb
+D:\NPF\Lab3\NPF_ASM01\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+D:\NPF\Lab3\NPF_ASM01\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\NPF\Lab3\NPF_ASM01\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+D:\NPF\Lab3\NPF_ASM01\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+D:\NPF\Lab3\NPF_ASM01\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+D:\NPF\Lab3\NPF_ASM01\Client\obj\Debug\net6.0\Client.dll
+D:\NPF\Lab3\NPF_ASM01\Client\obj\Debug\net6.0\ref\Client.dll
+D:\NPF\Lab3\NPF_ASM01\Client\obj\Debug\net6.0\Client.pdb
+D:\NPF\Lab3\NPF_ASM01\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache

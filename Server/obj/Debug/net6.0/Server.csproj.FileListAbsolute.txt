@@ -1,0 +1,15 @@
+D:\NPF\Lab3\NPF_ASM01\Server\bin\Debug\net6.0\Server.exe
+D:\NPF\Lab3\NPF_ASM01\Server\bin\Debug\net6.0\Server.deps.json
+D:\NPF\Lab3\NPF_ASM01\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\NPF\Lab3\NPF_ASM01\Server\bin\Debug\net6.0\Server.dll
+D:\NPF\Lab3\NPF_ASM01\Server\bin\Debug\net6.0\ref\Server.dll
+D:\NPF\Lab3\NPF_ASM01\Server\bin\Debug\net6.0\Server.pdb
+D:\NPF\Lab3\NPF_ASM01\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\NPF\Lab3\NPF_ASM01\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\NPF\Lab3\NPF_ASM01\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\NPF\Lab3\NPF_ASM01\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\NPF\Lab3\NPF_ASM01\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\NPF\Lab3\NPF_ASM01\Server\obj\Debug\net6.0\Server.dll
+D:\NPF\Lab3\NPF_ASM01\Server\obj\Debug\net6.0\ref\Server.dll
+D:\NPF\Lab3\NPF_ASM01\Server\obj\Debug\net6.0\Server.pdb
+D:\NPF\Lab3\NPF_ASM01\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
